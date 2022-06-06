@@ -13,10 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufyen004&show_icons=true)
 
-![](https://komarev.com/ghpvc/?username=soufyen004)
+![](https://komarev.com/ghpvc/?username=anuraghazra)
 
-# Blog posts
- BLOG-POST-LIST:START 
- BLOG-POST-LIST:END 
+
  
  </div>
