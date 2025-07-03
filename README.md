@@ -54,7 +54,7 @@ Passionné par le développement web et mobile, je crée des applications modern
 | **UCars Hub** | Application mobile permettant de consulter des annonces automobiles, visualiser des fiches détaillées et localiser des vendeurs | React Native, Expo, Supabase, Maps API |
 | **Multilist** | Plateforme immobilière B2B/B2C avec intégration CRM, gestion des annonces, et synchronisation avec d'autres systèmes clients | Laravel, Vue.js, REST API |
 
-➡️ Consultez davantage de projets sur mon [portfolio](https://souaksoufiyan.dev) ou sur mes [repositories publics GitHub](https://github.com/souaksoufiyan?tab=repositories)
+➡️ Consultez davantage de projets sur mon [portfolio](https://souaksoufyen.vercel.app/) ou sur mes [repositories publics GitHub](https://github.com/souaksoufiyan?tab=repositories)
 
 
 ---
