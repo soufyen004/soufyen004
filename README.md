@@ -58,7 +58,7 @@ Passionné par le développement web et mobile, je crée des applications modern
 
 ## 📈 GitHub Stats
 
-![Souak Soufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=souaksoufiyan&show_icons=true&theme=tokyonight)
+![Souak Soufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufyen004&show_icons=true&theme=tokyonight)
 
 ---
 
