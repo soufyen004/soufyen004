@@ -4,7 +4,7 @@
 📍 Basé à Rabat, Maroc  
 💼 Spécialisé en JavaScript / TypeScript | PHP | React | Laravel | Next.js | React Native  
 📧 me contacter : [souaksoufyen@gmail.com](mailto:souaksoufyen@gmail.com)  
-🌐 Portfolio : [[souaksoufiyan.dev](https://souaksoufyen.vercel.app/)]([https://souaksoufiyan.dev](https://souaksoufyen.vercel.app/)) <!-- Remplace ce lien s’il est différent -->
+🌐 Portfolio : [https://souaksoufyen.vercel.app/](https://souaksoufyen.vercel.app/) 
 
 ---
 
@@ -67,8 +67,8 @@ Passionné par le développement web et mobile, je crée des applications modern
 Je suis toujours ouvert aux collaborations, missions freelance ou opportunités stimulantes.
 
 📩 Contact : [souaksoufyen@gmail.com](mailto:souaksoufyen@gmail.com)  
-🌐 Portfolio : [souaksoufiyan.dev](https://souaksoufiyan.dev)  
-📎 LinkedIn : *à compléter si disponible*
+🌐 Portfolio : [https://souaksoufyen.vercel.app/](https://souaksoufyen.vercel.app/)  
+📎 LinkedIn : https://www.linkedin.com/in/soufyensouak
 
 ---
 
