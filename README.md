@@ -1,20 +1,31 @@
-<div style="display:flex;justify-content-center">
- 
+# 👋 Salut, moi c’est Souak Soufiyan
 
-<strong>Souak Soufyen</strong>
- 
-  <img align="right" alt="Coding" width="400" src="./tenor.gif itemid=15828752.gif">
+🎯 **Développeur Full-Stack Web & Mobile**  
+📍 Basé à Rabat, Maroc  
+💼 Spécialisé en JavaScript / TypeScript | PHP | React | Laravel | Next.js | React Native  
+📧 me contacter : [souaksoufyen@gmail.com](mailto:souaksoufyen@gmail.com)
 
-</br>
+---
 
-Hey Iam soufyen, Fullstack developper.
+## 🧠 À propos de moi
 
- 4+ years experienced Jvavscript/php with hands-on experience in identifying web-based user interactions along with designing & implementing highly responsive user interface components by deploying React concepts. Proficient in translating designs & Website wireframes into high-quality code, and writing application interface code via JavaScript and ReactJS/next.js/vue.js workflows. Adept at monitoring & maintaining front-end performance With Backend Api with laravel/node.js and troubleshooting & debugging the same to bolster overall performance
- 
+Passionné par le développement web et mobile, je crée des applications modernes, performantes et bien structurées depuis plus de **3 ans**.
 
+- 💻 J’utilise au quotidien : React.js, Next.js, Vue.js, Laravel, Node.js, Tailwind CSS
+- 🧱 Je construis aussi des APIs REST sécurisées, intégrées à des bases de données SQL/NoSQL
+- 📱 Je développe des apps mobiles avec **React Native** et **Expo**
+- 🚀 J’adore apprendre de nouvelles technos et collaborer sur des projets innovants
+- 🧩 Je suis à l’aise avec Git, Docker, CI/CD, et les méthodologies Agile
 
-![](https://komarev.com/ghpvc/?username=anuraghazra)
+---
 
+## 🔧 Tech Stack
 
- 
- </div>
+```bash
+💻 Languages : JavaScript, TypeScript, PHP, SQL
+🧰 Frameworks : React, Next.js, Laravel, Node.js, Express, Vue
+🎨 UI : Tailwind CSS, Bootstrap, Material UI
+📦 Bases de données : MySQL, MongoDB, PostgreSQL
+🔐 Sécurité : Auth JWT, validation, protection API
+🚀 Outils : Git, Docker, Postman, Figma, Vercel, Netlify
+📱 Mobile : React Native, Expo
