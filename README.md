@@ -47,12 +47,15 @@ Passionné par le développement web et mobile, je crée des applications modern
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **MULTILIST Platform** | Plateforme de gestion d’annonces & CRM | Laravel, Vue.js, REST API |
-| **UCars Hub App** | App mobile multi-plateforme avec géolocalisation | React Native, Expo, Maps API |
-| **Biodiversité Marine** | Plateforme web éducative avec mini-jeux | Laravel, Vue.js, Docker |
-| **Portail Admin Weelite** | Dashboard full-stack pour gestion de contenus | Next.js, Node.js, MongoDB |
+| **Ropeup** | Plateforme de gestion et de réservation en ligne pour les activités de plein air (escalade, randonnées, etc.) | Next.js, Node.js, MongoDB |
+| **Plateya** | Solution SaaS destinée aux Office Managers et Assistants freelances pour la gestion des tâches administratives | Laravel, Vue.js, MySQL |
+| **Digis Assur** | Application web d’assurance frontière en ligne. Simplifie les démarches d’assurance pour les véhicules traversant les frontières. | Laravel, Vue.js |
+| **Telcoz Portail** | Portail pour opérateurs télécoms, dédié aux experts en télécommunications et à la gestion de services professionnels | Laravel, Bootstrap |
+| **UCars Hub** | Application mobile permettant de consulter des annonces automobiles, visualiser des fiches détaillées et localiser des vendeurs | React Native, Expo, Supabase, Maps API |
+| **Multilist** | Plateforme immobilière B2B/B2C avec intégration CRM, gestion des annonces, et synchronisation avec d'autres systèmes clients | Laravel, Vue.js, REST API |
 
-➡️ Découvrez plus de projets dans mes [repositories publics](https://github.com/souaksoufiyan?tab=repositories)
+➡️ Consultez davantage de projets sur mon [portfolio](https://souaksoufiyan.dev) ou sur mes [repositories publics GitHub](https://github.com/souaksoufiyan?tab=repositories)
+
 
 ---
 
