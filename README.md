@@ -65,16 +65,16 @@ Passionné par la tech, je conçois des solutions digitales performantes, modern
 
 ## 📂 Projets en vedette
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **🔧 WorkFlow CRM/ERP** | Solution all-in-one de gestion d’entreprise (projets, automatisation, opérations, RH...) | Laravel · Bootstrap · jQuery · Charts.js |
-| **🍽 DishDash POS** | Système de point de vente pour restaurants : commandes, cuisine, livraison, tables interactives | Laravel · Vue 3 · Bootstrap 5 |
-| **🧗‍♂️ Ropeup** | Plateforme de réservation & gestion d’activités outdoor (escalade, randonnée...) | Next.js · Node.js · MongoDB |
-| **📋 Plateya** | SaaS pour Office Managers et freelances : gestion de tâches, documents et workflow | Laravel · Vue.js · MySQL |
-| **🚗 UCars Hub** | App mobile d’annonces auto avec localisation vendeurs et fiches détaillées | React Native · Expo · Supabase |
-| **🏠 Multilist** | Plateforme immobilière B2B/B2C avec intégration CRM et synchro d'annonces clients | Laravel · Vue.js · REST API |
-| **🛡 Digis Assur** | Application web d’assurance frontière pour véhicules à l’international | Laravel · Vue.js |
-| **📡 Telcoz Portail** | Portail pour experts en télécommunications, services & gestion technique | Laravel · Bootstrap |
+| Projet | Description | Stack | Statut |
+|--------|-------------|-------|--------|
+| **🔧 WorkFlow CRM/ERP** | Solution all-in-one de gestion d’entreprise (projets, automatisation, opérations, RH...) | Laravel · Bootstrap · jQuery · Charts.js | 🛠 Maintenance |
+| **🍽 DishDash POS** | Système de point de vente pour restaurants : commandes, cuisine, livraison, tables interactives | Laravel · Vue 3 · Bootstrap 5 | 🚧 En cours |
+| **🧗‍♂️ Ropeup** | Plateforme de réservation & gestion d’activités outdoor (escalade, randonnée...) | Next.js · Node.js · MongoDB | ✅ En ligne |
+| **📋 Plateya** | SaaS pour Office Managers et freelances : gestion de tâches, documents et workflow | Laravel · Vue.js · MySQL | 🔒 Privé |
+| **🚗 UCars Hub** | App mobile d’annonces auto avec localisation vendeurs et fiches détaillées | React Native · Expo · Supabase | ✅ En ligne |
+| **🏠 Multilist** | Plateforme immobilière B2B/B2C avec intégration CRM et synchro d'annonces clients | Laravel · Vue.js · REST API | 🛠 Maintenance |
+| **🛡 Digis Assur** | Application web d’assurance frontière pour véhicules à l’international | Laravel · Vue.js | ✅ En ligne |
+| **📡 Telcoz Portail** | Portail pour experts en télécommunications, services & gestion technique | Laravel · Bootstrap | 🧪 Prototype |
 
 🔎 Explorez davantage sur mon [📁 portfolio](https://souaksoufyen.vercel.app) ou mes [📂 projets GitHub](https://github.com/souaksoufiyan?tab=repositories)
 
