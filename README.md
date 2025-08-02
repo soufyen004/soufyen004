@@ -1,7 +1,7 @@
 ![Alt text](./cover.webp)
  <br>
 
-<h1 align="center">👋 Salut, moi c’est <strong>Souak Soufiyan</strong></h1>
+<h1 align="center">👋 Salut, Its me <strong>Souak Soufiyan</strong></h1>
 
 <p align="center">
   🎯 <strong>Développeur Full-Stack Web & Mobile</strong><br/>
