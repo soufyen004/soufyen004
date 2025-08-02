@@ -1,3 +1,6 @@
+![Alt text](./cover.webp)
+ <br>
+
 <h1 align="center">👋 Salut, moi c’est <strong>Souak Soufiyan</strong></h1>
 
 <p align="center">
