@@ -83,13 +83,6 @@ Passionné par la tech, je conçois des solutions digitales performantes, modern
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufyen004&show_icons=true)
-</div>
-
----
 
 ## 🏆 Trophées GitHub
 
