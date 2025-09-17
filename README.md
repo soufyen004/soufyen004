@@ -86,9 +86,7 @@ Passionné par la tech, je conçois des solutions digitales performantes, modern
 ## 📊 Statistiques GitHub
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=soufyen004&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufyen004&layout=compact&theme=tokyonight&hide_border=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soufyen004&show_icons=true)
 </div>
 
 ---
