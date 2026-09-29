@@ -6,7 +6,7 @@
 <p align="center">
   🎯 <strong>Développeur Full-Stack Web & Mobile</strong><br/>
   📍 Rabat, Maroc &nbsp;|&nbsp; 💼 JS/TS · PHP · Laravel · React · React Native<br/>
-  📧 <a href="mailto:souaksoufyen@gmail.com">souaksoufyen@gmail.com</a> &nbsp;|&nbsp; 🌐 <a href="https://souaksoufyen.vercel.app">souaksoufyen.vercel.app</a>
+  📧 <a href="mailto:souaksoufyen@gmail.com">souaksoufyen@gmail.com</a> &nbsp;|&nbsp; 🌐 <a href="https://s-soufyen.netlify.app/">souaksoufyen.vercel.app</a>
 </p>
 
 <p align="center">
